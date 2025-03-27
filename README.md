@@ -1,11 +1,11 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# Startup
+Assumes npm is installed on the system.
+## Backend 
+Go to the backend by doing `cd StartCode/backend` and run `npm install`. Once finished, run `node index.js`.
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+## Frontend
+In a separate terminal instance (Or if you know how to run the previous as a background process in your shell),
 
-HAPPY CODING! </br>
-A Round Entertainment
+Navigate to the frontend folder via `cd StarterCode/frontend`
+
+Run `npm install` and then `npm start`. Within a few seconds it should provide a link looking like "localhost:3000" which will be development testing site.
