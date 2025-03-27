@@ -8,4 +8,4 @@ In a separate terminal instance (Or if you know how to run the previous as a bac
 
 Navigate to the frontend folder via `cd StarterCode/frontend`
 
-Run `npm install` and then `npm start`. Within a few seconds it should provide a link looking like "localhost:3000" which will be development testing site.
+Run `npm install`(This one will take a while to install dependencies) and then `npm start`. Within a few seconds it should provide a link looking like "localhost:3000" which will be development testing site.
